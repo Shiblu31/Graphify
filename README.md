@@ -1,1 +1,1 @@
-# Graphify
+It’s an NLP project, Which will take simple sentences as input, and convert the sentences into graph .it will take   input from Normal text, Microsoft word file , and Images .  it will take input from images using OCR .  After taking input the sentences, it will identify the subject, verb and object  .  Here the subject and objects are the node and the verb is edge. 
