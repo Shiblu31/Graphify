@@ -67,7 +67,6 @@ private lateinit var binding: ActivityMainBinding
                 val adapter = VerbAdapter(damoVerbList)
                 binding.recyclerVerv.adapter = adapter
             }
-
             override fun onCancelled(error: DatabaseError) {
 
             }
