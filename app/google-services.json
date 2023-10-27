@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "590451843144",
+    "firebase_url": "https://demo1-e8c6e-default-rtdb.firebaseio.com",
+    "project_id": "demo1-e8c6e",
+    "storage_bucket": "demo1-e8c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590451843144:android:da3e5d65a16859b339b87d",
+        "android_client_info": {
+          "package_name": "com.example.mydamo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1HKTX6M2-o2Hdhj6LQGxjylWQ3nzpbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
